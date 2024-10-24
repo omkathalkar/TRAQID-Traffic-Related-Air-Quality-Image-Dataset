@@ -4,7 +4,7 @@
 **Authors**: Om Kathalkar, Nitin Nilesh, Sachin Chaudhari, Anoop Namboodiri  
 **Affiliation**: IIIT Hyderabad, India  
 **Conference**: ICVGIP 2024  
-**DOI**: [Insert DOI link here]
+**DOI**: TBD
 
 ## Overview
 
