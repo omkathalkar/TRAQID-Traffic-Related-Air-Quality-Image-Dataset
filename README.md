@@ -68,7 +68,7 @@ The dataset is designed for the following tasks:
 
 ### Download
 
-The dataset can be downloaded from TBD link.
+The dataset can be downloaded from [link](https://drive.google.com/drive/folders/1qkHjzeYPTlJiyBh-xCFq_fmSh0qq9UPV).
 
 ### Requirements
 
