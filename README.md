@@ -4,7 +4,7 @@
 **Authors**: Om Kathalkar, Nitin Nilesh, Sachin Chaudhari, Anoop Namboodiri  
 **Affiliation**: IIIT Hyderabad, India  
 **Conference**: ICVGIP 2024  
-**DOI**: TBD
+**DOI**: 10.1145/3702250.3702260
 
 ## Overview
 
@@ -105,11 +105,21 @@ Benchmark results of various models on the TRAQID dataset are available in the p
 If you use the TRAQID dataset in your research, please cite:
 
 ```bibtex
-@inproceedings{Kathalkar2024TRAQID,
-  title={TRAQID - Traffic-Related Air Quality Image Dataset},
-  author={Om Kathalkar and Nitin Nilesh and Sachin Chaudhari and Anoop Namboodiri},
-  booktitle={ICVGIP 2024},
-  year={2024},
-  organization={IIIT Hyderabad}
+@inproceedings{10.1145/3702250.3702260,
+author = {Kathalkar, Om Rajendra and Nilesh, Nitin and Chaudhari, Sachin and Namboodiri, Anoop},
+title = {TRAQID - Traffic-Related Air Quality Image Dataset},
+year = {2025},
+isbn = {9798400710759},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3702250.3702260},
+doi = {10.1145/3702250.3702260},
+booktitle = {Proceedings of the Fifteenth Indian Conference on Computer Vision Graphics and Image Processing},
+articleno = {10},
+numpages = {10},
+keywords = {Image Dataset, Air Quality Estimation, Vehicle-Induced Pollution, Environmental Data},
+location = {
+},
+series = {ICVGIP '24}
 }
 ```
