@@ -68,7 +68,7 @@ The dataset is designed for the following tasks:
 
 ### Download
 
-The dataset can be downloaded from [link](https://drive.google.com/drive/folders/1qkHjzeYPTlJiyBh-xCFq_fmSh0qq9UPV).
+The sample dataset can be downloaded from [link](https://drive.google.com/drive/folders/1qkHjzeYPTlJiyBh-xCFq_fmSh0qq9UPV) & complete dataset is live on **[Complete Dataset](https://india-data.org/dataset-details/4965db32-3676-427f-86f0-c8ed678dad2b)**.
 
 ### Requirements
 
